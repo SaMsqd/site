@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    display: inherit;
+    width: 100%;
+    height: auto;
+    max-height: 50000px;
+}
+title{
+    height: 0;
+    width: 0;
+    visibility: hidden;
+}
